@@ -10,7 +10,7 @@
   <h1>Predicting Bike-Sharing Patterns</h1>
 </div>
 
-![status](https://img.shields.io/badge/STATUS-ACTIVE-green.svg?style=flat-square) ![license](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=flat-square)
+![status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen.svg?style=flat-square) ![license](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=flat-square)
 
 ## License
 
