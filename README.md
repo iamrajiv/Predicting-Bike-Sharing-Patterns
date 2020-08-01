@@ -8,7 +8,7 @@
   <h1>Predicting Bike-Sharing Patterns</h1>
 </div>
 
-![license](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=flat-square)
+![license](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=flat-square) <a href=""><img align="center" src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6OWmsvMD09Lr5zLhVlbcHd/dd19de452fdb7dad61b918da3a406e91/logo-color-aws.svg" /></a> <a href=""><img align="center" src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4rr5Kg3mZHNQJwMf71RCIH/2ec68ef40ffaec1904be23ec3ebeaa4d/logo-color-fb-ai.svg" /></a>
 
 ## Project Overview
 
