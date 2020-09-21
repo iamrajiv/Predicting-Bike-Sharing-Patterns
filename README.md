@@ -10,7 +10,7 @@ In this project, I have built a neural network from scratch to carry out a predi
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
-<a href="https://mybinder.org/v2/gh/iamrajiv/Predicting-Bike-Sharing-Patterns/master"><img src="https://mybinder.org/static/logo.svg" width="220" /></a>
+<a href="https://mybinder.org/v2/gh/iamrajiv/Predicting-Bike-Sharing-Patterns/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="220" /></a>
 
 ## License
 
