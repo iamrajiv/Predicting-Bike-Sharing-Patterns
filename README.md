@@ -1,6 +1,5 @@
 <div align="center">
-<img
-src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/August/5b68a9b1_bikeshare-li/bikeshare-li.jpg" height="300" width="300" />
+<img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/August/5b68a9b1_bikeshare-li/bikeshare-li.jpg" height="300" width="300" />
 <br />
 <h1>Predicting Bike-Sharing Patterns</h1>
 </div>
@@ -11,8 +10,8 @@ In this project, I have built a neural network from scratch to carry out a predi
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
-<a href="https://mybinder.org/v2/gh/iamrajiv/Predicting-Bike-Sharing-Patterns/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="220" /></a>
+<a href="https://mybinder.org/v2/gh/iamrajiv/Predicting-Bike-Sharing-Patterns/master"><img src="https://mybinder.org/static/logo.svg" width="220" /></a>
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/iamrajiv/Predicting-Bike-Sharing-Patterns/blob/master/LICENSE)
