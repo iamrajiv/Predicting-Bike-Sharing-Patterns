@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/Predicting-Bike-Sharing-Patterns.jpg" height="300" width="300" />
+<img src="assets/Predicting-Bike-Sharing-Patterns.jpg" width="300" />
 <br />
 <h1>Predicting Bike-Sharing Patterns</h1>
 </div>
